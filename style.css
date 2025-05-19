@@ -1,0 +1,19 @@
+body {
+    background-color: #111;
+    color: #ddd;
+    font-family: monospace;
+    padding: 2rem;
+    max-width: 700px;
+    margin: auto;
+  }
+  a {
+    color: #3cf;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  h1, h2 {
+    color: #9cf;
+  }
+  
